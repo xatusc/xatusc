@@ -1,6 +1,7 @@
-- 👋 Hi, I’m Ria
-- 🌱 I’m currently learning AI algorithms and DApp development 
-- 💞️ I’m looking to collaborate on social impact tech
+- 👋 Hi, I’m Ria. CS student at USC
+- 🌱 Digging into ML and blockchain this summer. Will document progress right here at the Hub. 
+- 💪 Transitioning into product management
+- 💞️ Let's collab on social impact tech!
 - 📫 yuweixi@usc.edu
 
 <!---
