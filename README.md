@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Ria. CS student at USC
-- 🌱 Digging into ML and blockchain this summer. Will document progress right here at the Hub. 
-- 💪 Transitioning into product management
-- 💞️ Let's collab on social impact tech!
+- 🌱 Interested in fintech, agtech, sustainable development, and impact-focused tech
 - 📫 yuweixi@usc.edu
 
 <!---
